@@ -26,4 +26,12 @@ The design emphasizes usability, clarity, spatial interaction, and minimal UI in
 
 
 
+# OUTPUT #
+
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/55de96b3-07b0-4f10-a5d0-3373d167abd1" />
+
+
+
 
